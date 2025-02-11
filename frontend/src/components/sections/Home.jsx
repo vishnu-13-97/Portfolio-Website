@@ -9,7 +9,7 @@ const Home = () => {
       
         <div className="text-center x-10 pz-4">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
-                Hi, I'm Vishnu C P
+                Hi, I'm Vishnu
             </h1>
             <p className="text-grey-400 text-lg mb-8 max-w-lg mx-auto">
             I'm a MERN Stack Developer passionate about building dynamic web applications with React, Node.js, Express, and MongoDB. Always learning, solving challenges, and exploring new technologies!
